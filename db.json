@@ -4,6 +4,7 @@
          "id": 1,
          "name":"Dr. Rayhan Mahbub",
          "org":"Kings London Hospital",
+         "speciality": "ENT",
          "availibility":{
            "sunday":"10:00 AM - 06:00 PM",
            "wednesday":"06:00 PM - 09:00 PM"
@@ -14,6 +15,7 @@
          "id": 2,
          "name":"Dr. Mehedi Hasan",
          "org":"Lab Aid Hospital",
+         "speciality": "EYE"
          "availibility":{
            "sunday":"11:00 AM - 05:00 PM",
            "monday":"09:00 PM - 11:00 PM",
@@ -25,6 +27,7 @@
          "id": 3,
          "name":"Dr. Alamin Hossain",
          "org":"Dahaka Medical College",
+ "speciality": "MEDICINE"
          "availibility":{
            "sunday":"12:00 PM - 06:00 PM",
            "monday":"09:00 PM - 11:00 PM",
@@ -36,6 +39,7 @@
         "id": 4,
          "name":"Dr. Shuvo",
          "org":"LIberty Hospital",
+ "speciality": "CARDIOLOGY",
          "availibility":{
            "friday":"11:00 AM - 02:00 PM",
            "monday":"09:00 PM - 11:00 PM",
@@ -47,6 +51,7 @@
          "id": 5,
          "name":"Dr. Riya",
          "org":"CBMCB Hospital, Mymensingh",
+ "speciality": "EYE"
          "availibility":{
            "sunday":"09:00 AM - 03:00 PM",
            "monday":"12:00 PM - 11:00 PM",
@@ -58,6 +63,7 @@
          "id": 6,
          "name":"Dr. Shorif Hasan",
          "org":"Mymensingh Medical College",
+ "speciality": "MEDICINE"
          "availibility":{
            "sunday":"10:00 AM - 06:00 PM",
            "monday":"09:00 PM - 11:00 PM",
